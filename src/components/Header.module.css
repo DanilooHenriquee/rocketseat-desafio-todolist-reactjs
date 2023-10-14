@@ -1,0 +1,19 @@
+.header {
+    height: 200px;
+    background-color: var(--gray-700);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.icon {
+    width: 22px;
+    height: 36px;
+    margin-right: 12px;
+}
+
+.text {
+    width: 92px;
+    height: 48px;
+}
